@@ -1,6 +1,6 @@
 Tutorial installasi:
 
-1. git clone https://github.com/salwaadiaa/template-basic.git
+1. git clone https://github.com/salwaadiaa/kasirku.git
 2. composer install / composer update
 3. npm install 
 4. npm run dev
@@ -14,8 +14,10 @@ Login untuk admin:
 admin@mail.com
 password
 
-Login untuk user:
-user@mail.com
+Login untuk petugas:
+petugas@mail.com
 password
 
-SELAMAT NGODING!
+cuma iseng 
+
+
